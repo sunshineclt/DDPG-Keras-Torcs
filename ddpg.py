@@ -156,4 +156,4 @@ def playGame(train_indicator=0):  # 1 means Train, 0 means simply Run
 
 
 if __name__ == "__main__":
-    playGame()
+    playGame(1)
